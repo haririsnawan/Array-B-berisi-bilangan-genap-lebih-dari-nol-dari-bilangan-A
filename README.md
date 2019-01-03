@@ -1,0 +1,1 @@
+# Array-B-berisi-bilangan-genap-lebih-dari-nol-dari-bilangan-A
